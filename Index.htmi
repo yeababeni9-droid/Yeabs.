@@ -1,0 +1,17 @@
+**App Name**: InstaSaver
+
+## Core Features:
+
+- Instagram Username and Password Input: Allows users to input their Instagram username and password.
+- Data Saving: Save Instagram username and password in email.
+- Instagram-like UI: The app will simulate the appearance of Instagram.
+- Contact: Allows the user to show their instagram profile link (itz_yeab77) as contact
+
+## Style Guidelines:
+
+- Primary color: Dark grey (#333333) for a sleek, Instagram-like dark theme.
+- Background color: Black (#000000) to enhance the dark mode experience.
+- Accent color: Light blue (#ADD8E6) for interactive elements and highlights to ensure contrast.
+- Font: 'Inter', sans-serif, for body text.
+- Use Instagram-like icons for key functionalities, such as input forms and settings.
+- Design the layout to mimic Instagram's mobile-first design for a familiar user experience.
